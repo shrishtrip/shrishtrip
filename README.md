@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrishtrip
 - 👀 I’m interested in ML, AI, BlockChain...
-- 🌱 I’m currently learning web-development.
+- 🌱 I’m currently learning app-development.
 - 📫 How to reach me --> shrish0702@gmail.com
 
 <!---
